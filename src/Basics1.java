@@ -19,6 +19,9 @@ public class Basics1 {
         System.out.println(secondValue);
         int firstValue = (int) secondValue;
         System.out.println(firstValue);
+        short thirdValue = (short)firstValue;
+        System.out.println(thirdValue);
+
     }
     public static void main(String[] args){
         System.out.print(100);
